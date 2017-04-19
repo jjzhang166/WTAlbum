@@ -3,7 +3,7 @@
 
 https://github.com/Sean-LWT/WTAlbum
 
-使用方法
+使用方法 （需配合SDWebImage使用）
 
     WTAlbumVC* albumVC = [WTAlbumVC new]; //创建
     albumVC.imageArr = @[top,mid,bottom]; //imageUrl数组
