@@ -19,3 +19,6 @@ https://github.com/Sean-LWT/WTAlbum
 
 2017-04-19
 .优化手势效果;
+
+2017-04-30
+.优化轮播;
